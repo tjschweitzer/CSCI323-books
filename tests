@@ -1,0 +1,31 @@
+--Test Plans--
+Test 1: Voice speed
+  Tests:
+    Change speed while reading.
+    Change speed while reading is paused.
+    Check to make sure changed speed persists across sessions.
+    Slow it all the waydown, will crazy parents think its the devil?
+    Check if the pitch adjusts with speed.
+
+Test 2: Multiple input
+  Kids are unpredictable, check for them slapping around the device.
+  Tests:
+    Push multiple features at same time.
+    Push features rapid fire repeatedly.
+    Try sliders while holding down buttons.
+    Bop it.
+
+Test 3: Buying Stuff
+  Tests:
+    use expired credit card.
+    test adding payment details to account.
+    try to access store without parental control password.
+    check that parental control does not remain accessed across sessions.
+    make sure input is properly sanitized(for search?)
+
+Test 4: Reading
+  Tests:
+    Intentionally read bad, did it notice?
+    Does it properly save a report of your shame?
+    Check if word highlighting and read speed stay synced.
+    Check that pause and resume function.
